@@ -1,3 +1,5 @@
+# Tip Calculator Project
+
 # We're going to build a tip calculator.
 # If the bill was $150.00, split between 5 people, with 12% tip.
 # Each person should pay:
