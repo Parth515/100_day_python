@@ -15,3 +15,9 @@ Instead of following a strict “1 topic per day” rule, I group tasks based on
 Even if it's just 20 minutes a day, this challenge helps me keep my mind sharp.
 
 
+## 🗂️ Structure
+4 folders:
+- Beginner : Day 1 to 14
+- Intermediate : Day 15 to 58
+- Advanced : Day 59 to 81
+- Professional Portfolio Project : Day 82 to 100
