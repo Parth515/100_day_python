@@ -14,7 +14,7 @@ Instead of following a strict “1 topic per day” rule, I group tasks based on
 > *Consistency beats perfection.*  
 Even if it's just 20 minutes a day, this challenge helps me keep my mind sharp.
 
-# I have already completed Project upto day 10, so will upload all at once, and then continue the other projects.
+## I have already completed Project upto day 10, so will upload all at once, and then continue the other projects.
 
 ## 🗂️ Structure
 4 folders:
