@@ -24,7 +24,7 @@ Even if it's just 20 minutes a day, this challenge helps me keep my mind sharp.
 - Professional Portfolio Project : Day 82 to 100
 
 
-# Begineer
+# Beginner
 
 Day_1 : variables
 Day_2 : data_types
