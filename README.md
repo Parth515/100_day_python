@@ -43,3 +43,4 @@ day_14 : higher lower game project
 
 # Intermediate
 day_15 : coffee machine project
+day_16 : Object Oriented Programming - coffee machine project
