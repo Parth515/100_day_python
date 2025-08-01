@@ -45,3 +45,4 @@ day_14 : higher lower game project
 day_15 : coffee machine project
 day_16 : Object Oriented Programming - coffee machine project
 day_17 : the quiz project
+day_18 : the hirst painting project
