@@ -47,4 +47,4 @@ day_16 : Object Oriented Programming - coffee machine project
 day_17 : the quiz project
 day_18 : the hirst painting project
 day_19 : the turtle race
-day_20 : the snake game part 1
+day_20/21 : the snake game
