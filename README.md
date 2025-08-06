@@ -48,3 +48,4 @@ day_17 : the quiz project
 day_18 : the hirst painting project
 day_19 : the turtle race
 day_20_21 : the snake game
+day_22 : the pong game
