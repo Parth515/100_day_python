@@ -49,3 +49,4 @@ day_18 : the hirst painting project
 day_19 : the turtle race
 day_20_21 : the snake game
 day_22 : the pong game
+day_24_25 : the state guessing game
