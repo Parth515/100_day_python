@@ -52,4 +52,5 @@ day_22 : the pong game
 day_24_25 : the state guessing game
 day_26 : the list and dict. comprehensions
 day_27 : the miles to kilometer converter GUI
-day_28 : the pomodoro technique
+day_28 : the pomodoro technique (the time management gui)
+day_29 : the password manager gui
