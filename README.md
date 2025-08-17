@@ -54,3 +54,4 @@ day_26 : the list and dict. comprehensions
 day_27 : the miles to kilometer converter GUI
 day_28 : the pomodoro technique (the time management gui)
 day_29 : the password manager gui
+day_30 : the advanced password manager gui (the error handling)
